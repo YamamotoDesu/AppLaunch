@@ -20,6 +20,14 @@ class TestingAppDelegate: UIResponder, UIApplicationDelegate {
 
 ```
 
+AppDelegate.swift
+```swift
+
+// @main 削除する
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+```
+
 main.swift
 ```swift
 
